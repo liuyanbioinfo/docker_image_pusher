@@ -1,4 +1,3 @@
-miniconda3
 continuumio/miniconda3:lastest
 #支持指定架构
---platform=linux/amd64 liuyan/miniconda3
+--platform=linux/amd64
