@@ -1,1 +1,3 @@
 continuumio/miniconda3
+# 增加平台信息
+linux/amd64
