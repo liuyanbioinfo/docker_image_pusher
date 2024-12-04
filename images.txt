@@ -1,4 +1,4 @@
 # 固定python版本到3.11
 continuumio/miniconda3:23.5.2-0
 # 增加平台信息
---platform=linux/amd64 miniconda311
+--platform=linux/amd64 liuyan/miniconda3
