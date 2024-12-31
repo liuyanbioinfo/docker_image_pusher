@@ -1,2 +1,2 @@
-# 固定平台到python3.11, 增加平台信息
---platform=linux/amd64 continuumio/miniconda3:23.5.2-0
+# 固定平台到python3.8.5, 增加平台信息
+--platform=linux/amd64 continuumio/miniconda3:4.9.2
